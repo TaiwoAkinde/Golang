@@ -1,0 +1,2 @@
+I am adding more contents to this file from my termial- using bash's touch to create it and nano to edit it
+----Hola!
